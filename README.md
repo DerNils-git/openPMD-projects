@@ -153,6 +153,12 @@ the work provided in those for our format handling.
   - original author: [Ben Wibking](https://benwibking.github.io/)
   - status: openPMD implemented for outputs (cell-centered only)
 
+- [BSL6D](https://bsl6d.pages.mpcdf.de/bsl6d/index.html) (IPP, Germany)
+  - domain: Magnetic confined plasma
+  - repository: https://gitlab.mpcdf.mpg.de/bsl6d/bsl6d (ISC License)
+  - maintainers: [Nils Schild](https://github.com/DerNils-git)
+  - status: openPMD implemented for I/O (HDF5 only)
+
 ### Data Processing and Visualization
 
 - [openPMD-viewer](https://github.com/openPMD/openPMD-viewer) (LBNL, CFEL Hamburg University)
